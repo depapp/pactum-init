@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "jasmine": "^4.3.0",
+    "pactum": "^3.2.0"
+  },
+  "scripts": {
+    "test": "jasmine test.js"
+  }
+}
