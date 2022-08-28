@@ -1,10 +1,16 @@
 {
     "name": "pactum-init",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "description": "PactumJS CLI tool",
     "bin": "bin/create-project",
     "publishConfig": {
         "access": "public"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/depapp/pactum-init.git"
+    },
+    "license": "MIT",
     "dependencies": {
         "arg": "^4.1.0",
         "chalk": "^2.4.2",
@@ -15,6 +21,33 @@
         "ncp": "^2.0.0",
         "pkg-install": "^0.2.0"
     },
+    "keywords": [
+        "api",
+        "REST",
+        "automation",
+        "testing",
+        "component",
+        "service",
+        "contract",
+        "integration",
+        "e2e",
+        "fuzz",
+        "bdd",
+        "tdd",
+        "cucumber",
+        "mocha",
+        "jest",
+        "mock",
+        "server",
+        "JSON",
+        "pactum",
+        "pactumjs",
+        "microservice",
+        "microservices",
+        "test",
+        "http",
+        "GraphQL"
+      ],
     "files": [
         "bin/",
         "src/",
