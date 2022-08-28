@@ -4,4 +4,6 @@ PactumJS CLI tool
 
 ## usage
 
-`npx pactum-init`
+```bash
+npx pactum-init
+```
