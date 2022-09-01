@@ -1,7 +1,11 @@
 {
+  "name": "pactum-mocha",
+  "version": "1.0.0",
+  "description": "PactumJS with Mocha",
+  "license": "MIT",
   "devDependencies": {
-    "mocha": "^10.0.0",
-    "pactum": "^3.2.0"
+    "mocha": "latest",
+    "pactum": "latest"
   },
   "scripts": {
     "test": "mocha test.js"

@@ -1,7 +1,11 @@
 {
+  "name": "pactum-jasmine",
+  "version": "1.0.0",
+  "description": "PactumJS with Jasmine",
+  "license": "MIT",
   "devDependencies": {
-    "jasmine": "^4.3.0",
-    "pactum": "^3.2.0"
+    "jasmine": "latest",
+    "pactum": "latest"
   },
   "scripts": {
     "test": "jasmine test.js"

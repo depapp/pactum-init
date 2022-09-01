@@ -1,6 +1,6 @@
 {
     "name": "pactum-init",
-    "version": "1.0.1",
+    "version": "1.1.1",
     "description": "PactumJS CLI tool",
     "bin": "bin/create-project",
     "publishConfig": {
